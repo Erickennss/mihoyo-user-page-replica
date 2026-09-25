@@ -235,7 +235,7 @@ export default function LandingPage({ onLogin }) {
         ))}
       </section>
 
-      {/* 多方支持：Logo 横向滚动条 */}
+      {/* Logo 横向滚动条 */}
       <section className={styles.partners}>
         <div className={styles.partnerLabel}>
           <span className={styles.hr} />
